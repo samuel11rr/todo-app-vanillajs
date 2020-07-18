@@ -1,14 +1,16 @@
-# Webpack Starter
+# TODO app
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+[Demo: ](https://samuel11rr.github.io/todo-app-vanillajs/)
+
+App construida en VanillaJS
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
+Recuerden reconstruir módulos de Node
 ```
 npm install
 ```
 
-Y para construir el build, recueren:
+Generar build para producción:
 ```
 npm run build
 ```
