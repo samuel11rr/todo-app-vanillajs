@@ -1,6 +1,6 @@
 # TODO app
 
-[Demo: ](https://samuel11rr.github.io/todo-app-vanillajs/)
+[Demo: https://samuel11rr.github.io/todo-app-vanillajs/](https://samuel11rr.github.io/todo-app-vanillajs/)
 
 App construida en VanillaJS
 
